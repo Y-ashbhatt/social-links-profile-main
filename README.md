@@ -36,7 +36,7 @@ Mobile
 ### Links
 
 - Solution URL: [(https://github.com/Y-ashbhatt/social-links-profile-main)]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [(https://y-ashbhatt.github.io/social-links-profile-main)]
 
 ## My process
 
